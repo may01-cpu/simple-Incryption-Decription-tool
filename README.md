@@ -20,7 +20,8 @@ It allows users to **encrypt** and **decrypt** text using a basic Caesar cipher 
 
 ## 📷 Screenshot
 
-> ![image](https://github.com/user-attachments/assets/8bc027be-9692-492a-a4d6-8a575b5ff9c7)
+![image](https://github.com/user-attachments/assets/4646fbba-667d-42fc-909c-1237acd16fef)
+
 
 
 ---
